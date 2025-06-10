@@ -24,7 +24,7 @@ This project serves as a demonstration of building a basic list-based applicatio
 *   Implementing a `Scaffold` for basic app structure.
 
 ## Screenshots
-![darkTheme](https://github.com/user-attachments/assets/9f4c4e8e-c9ff-4ba5-9383-1a3c32776cf1)
-![lightTheme](https://github.com/user-attachments/assets/5b9f8905-d54a-4cf2-8909-ad1898376f3c)
-
-
+<div>
+  <img src="https://github.com/user-attachments/assets/9f4c4e8e-c9ff-4ba5-9383-1a3c32776cf1" alt="darkTheme" width="300" />
+  <img src="https://github.com/user-attachments/assets/5b9f8905-d54a-4cf2-8909-ad1898376f3c" alt="lightTheme" width="300" />
+</div>
